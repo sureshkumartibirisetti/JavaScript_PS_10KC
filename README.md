@@ -45,10 +45,4 @@ Happy coding! 😄
 ```
 
 
-**Remember to replace `[repository URL]` with the actual URL of your repository.**
 
-This improved README content provides a good overview of your repository and its contents, making it more informative and user-friendly.
-
-
-
-[JS Practice Problems.docx.pdf](https://github.com/user-attachments/files/18279370/JS.Practice.Problems.docx.pdf)
