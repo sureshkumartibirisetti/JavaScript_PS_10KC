@@ -42,7 +42,7 @@ Feel free to use this repository to learn and improve your own JavaScript skills
 Let's connect and discuss JavaScript or software development! 
 
 Happy coding! 😄
-```
+
 
 
 
